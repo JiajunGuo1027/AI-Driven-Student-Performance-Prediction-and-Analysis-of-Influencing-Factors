@@ -1,4 +1,4 @@
-# AI-Driven-Student-Performance-Prediction-and-Analysis-of-Influencing-Factors
+# AI Driven Student Performance Prediction and Analysis of Influencing Factors
 This study aims to use machine learning models to predict students' academic performance and identify the key factors that influence their performance. The study utilizes the [UCI Student Performance dataset](https://archive.ics.uci.edu/dataset/320/student+performance), focusing on two subjects: Mathematics (Math) and Portuguese (Por).
 
 ## Overview
