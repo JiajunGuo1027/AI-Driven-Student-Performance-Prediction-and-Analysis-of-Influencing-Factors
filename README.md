@@ -2,7 +2,7 @@
 This study aims to use machine learning models to predict students' academic performance and identify the key factors that influence their performance. The study utilizes the [UCI Student Performance dataset](https://archive.ics.uci.edu/dataset/320/student+performance), focusing on two subjects: Mathematics (Math) and Portuguese (Por).
 
 ## Overview
-This project aims to predict students' final grades (G3) based on various features such as their first period grade (G1), second period grade (G2), number of past class failures, mother's education level (Medu), and higher education aspirations (higher). The models developed include:
+Using the UCI Student Performance dataset, five key predictors: First period grade (G1), Second period grade (G2), Number of past class failures (Failures), Mother's education level (Medu) and Higher education aspiration (Higher), were extracted from 32 original attributes. The models developed include:
 - Linear Regression
 - Random Forest
 - Ensemble Model (combining Linear Regression, Random Forest, and Gradient Boosting)
